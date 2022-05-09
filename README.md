@@ -29,3 +29,4 @@ The **included REST service** comes with the following premade accounts.
 { "email": "john@abv.bg", "password": "123456" }
 ```
 
+![JS Applications - February 2022 - Certificate](https://user-images.githubusercontent.com/103751145/167355892-94d35229-1ced-4c8b-805b-2bd9003fac87.jpeg)
